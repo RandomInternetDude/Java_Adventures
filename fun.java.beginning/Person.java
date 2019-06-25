@@ -1,7 +1,11 @@
 package fun.java.beginning
 
 public class Person {
-    public String helloworld(){
+    public String helloWorld(){
         return "Hello World";
     }
+}
+
+public static void main (String [] args){
+    
 }
